@@ -6,3 +6,13 @@ body{
 h2, p, .readme-wrapper{
     text-align: center;
 }
+
+a{
+    text-decoration-line: none;
+    color: lime;
+}
+a:hover{
+    cursor: pointer;
+    font-weight: bold;
+    color: red;
+}
