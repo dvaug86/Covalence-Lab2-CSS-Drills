@@ -3,6 +3,31 @@ body{
     background-color: lightgrey;
 }
 
+.boxes{
+    width: 30em;
+    margin: .5em;
+    padding: .5em;
+    border: cornflowerblue solid;
+    border-radius: 5px;
+    display: inline-block;
+
+}
+#box1{
+    background-color: darkgreen;
+}
+
+#box2{
+    background-color: darksalmon;
+}
+
+#box3{
+    background-color: deeppink;
+}
+
+#box4{
+    background-color: gold;
+}
+
 h2, p, .readme-wrapper{
     text-align: center;
 }
@@ -15,4 +40,19 @@ a:hover{
     cursor: pointer;
     font-weight: bold;
     color: red;
+}
+.span1{
+    color: magenta;
+}
+
+.span2{
+    color: orange;
+}
+
+.span3{
+    color: rgb(255, 0, 0);
+}
+
+.span4{
+    color: blueviolet;
 }
