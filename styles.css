@@ -53,6 +53,22 @@ h1{
     color: maroon;
 }
 
+#show1{
+    color: rgb(177, 53, 150);
+}
+#show2{
+    color: rgb(121, 165, 216);
+}
+#show3{
+    color: rgb(109, 188, 212);
+}
+#show4{
+    color: plum
+}
+#show5{
+    color: purple;
+}
+
 a{
     text-decoration-line: none;
     color: lime;
@@ -72,7 +88,23 @@ a:hover{
 
 .span3{
     color: wheat;
-
+}
 .span4{
     color: blueviolet;
+}
+
+ul{
+    color: brown;
+}
+.star{
+    color: mediumvioletred;
+}
+
+#wars{
+    color: olive;
+}
+
+.listBorder{
+    border: black solid 2px;
+    
 }
